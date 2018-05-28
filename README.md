@@ -1,0 +1,2 @@
+# bukusekolah-html
+safelink bukusekolah
